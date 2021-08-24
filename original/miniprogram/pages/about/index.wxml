@@ -1,2 +1,0 @@
-<van-button bindtap="handleTap">按钮</van-button>
-<view>{{ sum  }}</view>
